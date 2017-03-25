@@ -1,0 +1,30 @@
+{
+  "name": "zapguia",
+  "version": "1.0.0",
+  "description": "Zap Guia for bot messenger",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello zap",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegolimal90/zapguia.git"
+  },
+  "keywords": [
+    "messengerbot",
+    "guia",
+    "messenger"
+  ],
+  "author": "Diego de Lima Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegolimal90/zapguia/issues"
+  },
+  "homepage": "https://github.com/diegolimal90/zapguia#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.15.0",
+    "request": "^2.79.0"
+  }
+}
